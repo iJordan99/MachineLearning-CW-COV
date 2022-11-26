@@ -23,4 +23,9 @@ https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction
 - KNeighborsClassifier
 - LogisticRegression
 
+## 📚 Python Libraries 
 
+- Sklearn
+https://scikit-learn.org/stable/index.html 
+- Imbalanced Learn
+https://imbalanced-learn.org/stable/ 
