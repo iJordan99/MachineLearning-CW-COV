@@ -29,3 +29,7 @@ https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction
 https://scikit-learn.org/stable/index.html 
 - Imbalanced Learn
 https://imbalanced-learn.org/stable/ 
+
+## 🎥 Demonstration Video
+
+The demonstration video is called demo.mp4
